@@ -1,6 +1,8 @@
 ---
-title: "My First Post"
-date: 2017-08-09T22:17:41+02:00
+title: My First Post
+date: 2017-08-09 22:17:41 +0200
+
 ---
 
-hello world!
+
+hello world! additional content. works well
